@@ -1,8 +1,8 @@
 This project contains the implementation of the A* Shortest Path finding Algorithm in Java.
 This covers the solution of Project Eulers problem no 81,82 and 83.(no. 82 and 83 would require only slightest of modifications)
 
-Link of the Question can be found at:
+The Question can be found at:
 http://projecteuler.net/problem=81
 
-Reference for the A* Algorithm was taken from:<br/>
+Reference for the A* Algorithm was taken from:
 http://en.wikipedia.org/wiki/A*_search_algorithm
